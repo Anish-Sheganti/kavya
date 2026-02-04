@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Anish sheganti
+# 👋 Hi there, I'm kavya
 
 
 ![QA Engineer – Automation & Functional Testing](https://img.shields.io/badge/QA%20Engineer–Automation%20%26%20Functional%20Testing-brightgreen?logo=testing-library&logoColor=white)
-[![@TCS](https://img.shields.io/badge/@TCS-blue)](https://www.TCS.com/)
+[![@Infosys](https://img.shields.io/badge/@Infosys-blue)](https://www.Infosys.com/)
 
 
 
@@ -15,7 +15,7 @@
 
 ## 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/anishsheganti" target="_blank">
+<a href="https://www.linkedin.com/in/kavya-qa-automation/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/>
 </a>
 
@@ -30,7 +30,7 @@
 ## 🧠 Problem Solving – LeetCode
 
 
-<a href="https://leetcode.com/u/Anish_2000/" target="_blank">
+<a href="https://leetcode.com/u/kavyasri2000/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="24" height="24" />
 </a>
 
@@ -302,5 +302,5 @@ Custom-built Selenium automation framework for testing MantisBT, a popular bug t
 ---
 
 ## 📫 Contact
-- 📧 anish.sheganti12345@gmail.com
+- 📧 kadambari1102000@gmail.com
 
